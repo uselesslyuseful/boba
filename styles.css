@@ -1,16 +1,16 @@
 .container {
-  color: rgb(248, 244, 201);
+  color: rgb(203, 196, 109);
   text-align: center;
   font-size: 35px;
 }
 
 body{
-  background-color: #CBC3E3;
+  background-color: #9070ee;
 }
 
 a{
   font-size: 33px;
   background: #4ba1c3;
   color: white;
-  box-shadow: 0 0 50px rgb(0, 0, 155);
+  box-shadow: 0 0 50px rgb(59, 118, 170);
 }
